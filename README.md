@@ -1,4 +1,4 @@
-### Hendrik Müller-Röhr  
+### Hendrik (Excyl)
 By most standards I am classified as a web developer I guess, althought I don't see myself as one. Since I am mostly
 familiar with writing casino games for the web. In recent years I took a detour to learn and ehance my skills with pure
 web based development that actually involves HTML and CSS. Prior to that my experience is pure TypeScript/JavaScript and
