@@ -1,17 +1,16 @@
 ### Hendrik (Excyl)
-By most standards I am classified as a web developer I guess, althought I don't see myself as one. Since I am mostly
-familiar with writing casino games for the web. In recent years I took a detour to learn and ehance my skills with pure
-web based development that actually involves HTML and CSS. Prior to that my experience is pure TypeScript/JavaScript and
-C++.
+Let me tell you something about labels. People will try to put you in boxes - "web developer," "software engineer," "full-stack this-or-that." I've never been fond of boxes. I build casino games for the web. Digital houses where chance meets code. Does that make me a web developer? Perhaps. Do I lose sleep over the categorization? Not particularly.
 
-## Repos
-My repos are mainly just fun stuff I come up with under the shower, and to be quite I honest I suck and staying motivated
-to work on something for more then a few weeks. As something always pops up that distracts me, or I simply start something
-new that I find more interesting. But from time to time I come back to the projects and a little bit to it and then let it
-sit again for weeks or months.
+My expertise lies primarily in TypeScript, JavaScript, and C++. The holy trinity of casino game development, if you will. Recently, I've expanded into the kingdoms of C# and Rust - because stagnation, my friend, is the enemy of excellence.
+Now, about these repositories. Some say I'm easily distracted, that I abandon projects like a restless traveler. I prefer to think of it differently. I'm a collector of beginnings. I return to them when the moment strikes, add a little flourish here, a refinement there. They're not abandoned - they're marinating.
 
-## Languages
-My current skillset of languages includes TypeScript/JavaScript, C#, C++ and a bit of Rust which I am learning at the moment.
+The truth is this: I built my career writing games where the house always wins. But in open source? I play for the joy of the game itself.
+
+Current Arsenal: TypeScript/JavaScript, C#, C++, Rust (in progress)
+
+Specialization: Casino game development, web technologies, and the occasional shower-inspired rabbit hole
+
+Philosophy: Start many things. Finish what matters. Return to the rest when inspiration strikes.
 
 ## Stats
 ![Hendriks's github stats](https://github-readme-stats.vercel.app/api?username=cavhoo&show_icons=true&theme=radical)
